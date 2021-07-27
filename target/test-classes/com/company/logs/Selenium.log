@@ -1,0 +1,7 @@
+18:39:18,157 DEBUG devpinoyLogger:44 - Config file loaded !!!
+18:39:18,159 DEBUG devpinoyLogger:59 - OR file loaded
+18:39:24,977 DEBUG devpinoyLogger:72 - launching chrome
+18:39:27,126 DEBUG devpinoyLogger:79 - navigating to url:null
+18:39:27,488 DEBUG devpinoyLogger:17 - Inside Login Test
+18:39:28,295 DEBUG devpinoyLogger:22 - Login successfully executed
+18:39:41,258 DEBUG devpinoyLogger:100 - Test execution completed !!!
